@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T08:25:02.538Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="5oYPvA28mSlVDPfmT70o" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-30T09:40:54.064Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="g6VhsNdgvaX7Z7Yyv9dk" version="20.3.7" type="github">
   <diagram id="qoMkyWwI3nYbz-VqIXqR" name="第 1 页">
     <mxGraphModel dx="1298" dy="1151" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -371,6 +371,69 @@
         </mxCell>
         <mxCell id="wuk8vyHPsgGAvW6CBaT4-136" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="947" y="135" width="392" height="312" as="geometry" />
+        </mxCell>
+        <mxCell id="wuk8vyHPsgGAvW6CBaT4-137" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.frame_corner;dx=10;strokeWidth=1;fontSize=18;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2041" y="-145" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wuk8vyHPsgGAvW6CBaT4-138" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.frame_corner;dx=10;strokeWidth=1;fontSize=18;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="2009" y="471.5" width="158" height="59.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wuk8vyHPsgGAvW6CBaT4-139" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.frame_corner;dx=10;strokeWidth=1;fontSize=18;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1981" y="-82" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wuk8vyHPsgGAvW6CBaT4-140" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.frame_corner;dx=10;strokeWidth=1;fontSize=18;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2081" y="-142" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wuk8vyHPsgGAvW6CBaT4-141" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;X-Engine&lt;br&gt;解决归档类痛点&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2021" y="412" width="116" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="wuk8vyHPsgGAvW6CBaT4-142" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;X-Engine+KwaiStore&lt;br&gt;初步存储、计算分离&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2172" y="357.5" width="148" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="wuk8vyHPsgGAvW6CBaT4-144" value="支持高性能版&lt;br&gt;打磨分布式存储能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2335" y="299.5" width="144" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="wuk8vyHPsgGAvW6CBaT4-145" value="基于InnoDB&lt;br&gt;支持物理复制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2509" y="246" width="102" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="wuk8vyHPsgGAvW6CBaT4-146" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.frame_corner;dx=10;strokeWidth=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2167" y="412" width="158" height="59.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wuk8vyHPsgGAvW6CBaT4-148" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.frame_corner;dx=10;strokeWidth=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2325" y="352.5" width="158" height="59.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wuk8vyHPsgGAvW6CBaT4-149" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.frame_corner;dx=10;strokeWidth=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2483" y="294" width="158" height="59.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wuk8vyHPsgGAvW6CBaT4-150" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.frame_corner;dx=10;strokeWidth=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2641" y="234.5" width="158" height="59.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wuk8vyHPsgGAvW6CBaT4-151" value="InnodDB+KwaiStore&lt;br&gt;支持一写多读&lt;br&gt;存储、计算分离" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2646" y="170" width="144" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="wuk8vyHPsgGAvW6CBaT4-152" value="2022.Q4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2043" y="488" width="72" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="wuk8vyHPsgGAvW6CBaT4-153" value="2022.Q4~2023.Q1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2181" y="427.25" width="134" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="wuk8vyHPsgGAvW6CBaT4-154" value="2022.Q1~2023.Q2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="370.5" width="134" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="wuk8vyHPsgGAvW6CBaT4-155" value="2023.Q3~2023.Q4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2495" y="313" width="134" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="wuk8vyHPsgGAvW6CBaT4-156" value="2024.Q1~2023.Q2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2658" y="251" width="134" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="wuk8vyHPsgGAvW6CBaT4-157" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.frame_corner;dx=10;strokeWidth=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2799" y="176" width="158" height="59.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wuk8vyHPsgGAvW6CBaT4-158" value="2024.Q3~2023.Q4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2815" y="194" width="134" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="wuk8vyHPsgGAvW6CBaT4-159" value="性能、稳定性打磨&lt;br&gt;生态、平台、管控、代理支持&lt;br&gt;灰度上线业务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2778" y="112" width="200" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
