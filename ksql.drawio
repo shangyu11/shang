@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T04:03:59.602Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="3gACOW2nLty1zKdFG98C" version="22.0.8" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-11-01T04:09:07.790Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ItDubC5VUCgIQZ0HeRDR" version="22.0.8" type="github" pages="11">
   <diagram id="qoMkyWwI3nYbz-VqIXqR" name="第 1 页">
     <mxGraphModel dx="1242" dy="1130" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -3476,6 +3476,30 @@
         </mxCell>
         <mxCell id="H2Tsn9CC2kwho-fc3DTe-16" value="单实例紧凑存储&lt;br&gt;高压缩" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-612" y="412" width="102" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="H2Tsn9CC2kwho-fc3DTe-19" value="DB可用性、性能、稳定性" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-599" y="951" width="84" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="H2Tsn9CC2kwho-fc3DTe-20" value="数据一致性" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-738" y="951" width="84" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="H2Tsn9CC2kwho-fc3DTe-21" value="存储成本" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-877" y="951" width="84" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="H2Tsn9CC2kwho-fc3DTe-22" value="核心&lt;br&gt;问题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-954.5" y="972.5" width="42" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="H2Tsn9CC2kwho-fc3DTe-23" value="KSQL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-958.5" y="1063" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="H2Tsn9CC2kwho-fc3DTe-24" value="高压缩存储引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-884.5" y="1056" width="102.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H2Tsn9CC2kwho-fc3DTe-25" value="Raft日志复制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-747.25" y="1056" width="102.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H2Tsn9CC2kwho-fc3DTe-26" value="企业级功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-608.25" y="1056" width="102.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
