@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T06:53:16.107Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ZRtYSSdLcw9kxR3WoA5K" version="23.1.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2024-03-01T06:57:50.457Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="jWSc7QuDHQoNdwF4ZKea" version="23.1.1" type="github" pages="14">
   <diagram id="qoMkyWwI3nYbz-VqIXqR" name="第 1 页">
     <mxGraphModel dx="1242" dy="1130" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -3659,11 +3659,8 @@
             <mxPoint x="-506" y="178.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OX2xg7sa_UG3ATrqI9RK-8" value="支持热点组提交能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-503" y="209" width="126" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="OX2xg7sa_UG3ATrqI9RK-9" value="性能提升： xxw -&amp;gt; xxw" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-505" y="229" width="140" height="26" as="geometry" />
+        <mxCell id="OX2xg7sa_UG3ATrqI9RK-8" value="支持热点组提交能力，性能提升： xxw -&amp;gt; xxw" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-506" y="209" width="260" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OX2xg7sa_UG3ATrqI9RK-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3703,6 +3700,9 @@
         </mxCell>
         <mxCell id="OX2xg7sa_UG3ATrqI9RK-20" value="支持更多降本方式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-503" y="390" width="114" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OX2xg7sa_UG3ATrqI9RK-21" value="SQL并发控制、慢SQL拦截" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-506" y="229" width="162" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
