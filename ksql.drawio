@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T03:39:27.157Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="y2VPQvQiFIpiEdNPMnlI" version="23.1.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2024-03-01T06:39:31.839Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="_Ohjvx40o-sTis3xkSkS" version="23.1.1" type="github" pages="14">
   <diagram id="qoMkyWwI3nYbz-VqIXqR" name="第 1 页">
     <mxGraphModel dx="1242" dy="1130" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -3627,10 +3627,10 @@
           <mxGeometry x="-690" y="130" width="80" height="29" as="geometry" />
         </mxCell>
         <mxCell id="t_QHiMvj-azgopwxcmpK-40" value="&lt;font style=&quot;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 12px;&quot;&gt;连接处理、&lt;br&gt;线程池优化&lt;br&gt;&lt;br&gt;支持热点&lt;br&gt;SQL并发控制&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-690" y="159.25" width="90" height="113" as="geometry" />
+          <mxGeometry x="-690" y="163" width="90" height="113" as="geometry" />
         </mxCell>
         <mxCell id="t_QHiMvj-azgopwxcmpK-41" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;读写&lt;br&gt;性能&lt;br&gt;提升&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-414" y="235" width="46" height="62" as="geometry" />
+          <mxGeometry x="-414" y="243" width="46" height="62" as="geometry" />
         </mxCell>
         <mxCell id="t_QHiMvj-azgopwxcmpK-42" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;支持XEngine&lt;br&gt;存储引擎&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-693.5" y="358" width="87" height="41" as="geometry" />
@@ -3655,30 +3655,42 @@
         </mxCell>
         <mxCell id="OX2xg7sa_UG3ATrqI9RK-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-589" y="222" as="sourcePoint" />
-            <mxPoint x="-505" y="222" as="targetPoint" />
+            <mxPoint x="-590" y="178.5" as="sourcePoint" />
+            <mxPoint x="-506" y="178.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OX2xg7sa_UG3ATrqI9RK-8" value="支持热点组提交能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-503" y="196" width="126" height="26" as="geometry" />
+          <mxGeometry x="-503" y="209" width="126" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OX2xg7sa_UG3ATrqI9RK-9" value="性能提升： xxw -&amp;gt; xxw" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-506" y="222" width="140" height="26" as="geometry" />
+          <mxGeometry x="-506" y="235" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OX2xg7sa_UG3ATrqI9RK-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-590" y="297" as="sourcePoint" />
-            <mxPoint x="-506" y="297" as="targetPoint" />
+            <mxPoint x="-592" y="305" as="sourcePoint" />
+            <mxPoint x="-508" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OX2xg7sa_UG3ATrqI9RK-11" value="兼容主从模式，支持原地升级" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-506" y="278" width="174" height="26" as="geometry" />
+          <mxGeometry x="-506" y="286" width="174" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OX2xg7sa_UG3ATrqI9RK-12" value="插件模式降低耦合性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-499" y="302" width="126" height="26" as="geometry" />
+          <mxGeometry x="-499" y="310" width="126" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OX2xg7sa_UG3ATrqI9RK-13" value="&lt;font color=&quot;#ffffff&quot;&gt;支持列压缩&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-689" y="405" width="78" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OX2xg7sa_UG3ATrqI9RK-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-590" y="232" as="sourcePoint" />
+            <mxPoint x="-506" y="232" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OX2xg7sa_UG3ATrqI9RK-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-592" y="383" as="sourcePoint" />
+            <mxPoint x="-508" y="383" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
