@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T06:53:21.595Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="BYepHy5X3-Mli2qfZSV_" version="24.0.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2024-03-05T07:20:04.467Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="hD7zXipnSJ-oYQqi4MXZ" version="24.0.1" type="github" pages="14">
   <diagram id="qoMkyWwI3nYbz-VqIXqR" name="第 1 页">
     <mxGraphModel dx="1242" dy="1130" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -3626,7 +3626,7 @@
         <mxCell id="t_QHiMvj-azgopwxcmpK-37" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;KSQL 8.0&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-690" y="130" width="80" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="t_QHiMvj-azgopwxcmpK-40" value="&lt;font style=&quot;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 12px;&quot;&gt;连接处理、&lt;br&gt;线程池优化&lt;br&gt;&lt;br&gt;支持热点&lt;br&gt;SQL并发控制&lt;br&gt;等多项企业级特性&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="t_QHiMvj-azgopwxcmpK-40" value="&lt;font style=&quot;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 12px;&quot;&gt;连接处理、&lt;br&gt;线程池优化&lt;br&gt;&lt;br&gt;支持热点&lt;br&gt;SQL并发控制&lt;br&gt;等多项企业级特性&lt;br&gt;单元化能力&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-702" y="156" width="114" height="127" as="geometry" />
         </mxCell>
         <mxCell id="t_QHiMvj-azgopwxcmpK-41" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;读写&lt;br&gt;性能&lt;br&gt;提升&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
