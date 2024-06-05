@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T11:17:19.611Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="_1eVLx9uyFVZmA3LHSYC" version="24.4.9" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-06-05T11:19:33.548Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="1nrb2HMv_Ja5PpFGhFxi" version="24.4.9" type="github" pages="18">
   <diagram id="qoMkyWwI3nYbz-VqIXqR" name="第 1 页">
     <mxGraphModel dx="2074" dy="1521" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -5737,16 +5737,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yRauWEJuSNUwQpr5uP_k-2" value="KeyCentor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="41" y="537.5" width="165" height="63" as="geometry" />
-        </mxCell>
-        <mxCell id="yRauWEJuSNUwQpr5uP_k-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="555" as="sourcePoint" />
-            <mxPoint x="258" y="554" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="193" y="526" width="168" height="92.5" as="geometry" />
         </mxCell>
         <mxCell id="yRauWEJuSNUwQpr5uP_k-4" value="加密密钥 KEY" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="282" y="559" width="93" height="26" as="geometry" />
+          <mxGeometry x="355" y="495" width="93" height="26" as="geometry" />
         </mxCell>
         <mxCell id="yRauWEJuSNUwQpr5uP_k-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -5824,7 +5818,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yRauWEJuSNUwQpr5uP_k-36" value="密钥管理服务 KMS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="61" y="505" width="119" height="26" as="geometry" />
+          <mxGeometry x="217.5" y="495" width="119" height="26" as="geometry" />
         </mxCell>
         <mxCell id="yRauWEJuSNUwQpr5uP_k-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -5862,15 +5856,6 @@
         <mxCell id="yRauWEJuSNUwQpr5uP_k-44" value="删除" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yRauWEJuSNUwQpr5uP_k-42">
           <mxGeometry x="0.0556" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yRauWEJuSNUwQpr5uP_k-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="264" y="505" width="111" height="139" as="geometry" />
-        </mxCell>
-        <mxCell id="yRauWEJuSNUwQpr5uP_k-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="259" y="578.5" as="sourcePoint" />
-            <mxPoint x="211" y="579.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
