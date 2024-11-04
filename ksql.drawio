@@ -6139,13 +6139,13 @@
         <mxCell id="f4_Gu4QSR92T7ZW7wSw9-1" value="FSP_HDR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="137" y="319" width="266" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="f4_Gu4QSR92T7ZW7wSw9-3" value="FSP_HDR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f4_Gu4QSR92T7ZW7wSw9-3" value="IBUF_BITMAP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="137" y="368" width="266" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="f4_Gu4QSR92T7ZW7wSw9-4" value="FSP_HDR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f4_Gu4QSR92T7ZW7wSw9-4" value="INODE1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="137" y="417" width="266" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="f4_Gu4QSR92T7ZW7wSw9-5" value="FSP_HDR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f4_Gu4QSR92T7ZW7wSw9-5" value="INODE2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="137" y="466" width="266" height="49" as="geometry" />
         </mxCell>
         <mxCell id="f4_Gu4QSR92T7ZW7wSw9-6" value="FSP_HDR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
