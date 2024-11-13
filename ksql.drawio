@@ -6355,11 +6355,20 @@
         <mxCell id="rdlirtpDFn5b6Td_jQ6j-3" value="行锁、MDL锁" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="400" y="270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jBehs4SUArOwTs1o_UjO-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rdlirtpDFn5b6Td_jQ6j-5" target="jBehs4SUArOwTs1o_UjO-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rdlirtpDFn5b6Td_jQ6j-5" value="IO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-236" y="153" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jBehs4SUArOwTs1o_UjO-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rdlirtpDFn5b6Td_jQ6j-6" target="jBehs4SUArOwTs1o_UjO-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rdlirtpDFn5b6Td_jQ6j-6" value="cpu" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="56" y="153" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jBehs4SUArOwTs1o_UjO-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rdlirtpDFn5b6Td_jQ6j-9" target="jBehs4SUArOwTs1o_UjO-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rdlirtpDFn5b6Td_jQ6j-9" value="lock wait" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="369" y="153" width="120" height="60" as="geometry" />
@@ -6384,8 +6393,8 @@
             <mxPoint x="125" y="331" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jBehs4SUArOwTs1o_UjO-1" value="threadrunning升高(&amp;gt;100)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-16.5" y="12" width="265" height="67" as="geometry" />
+        <mxCell id="jBehs4SUArOwTs1o_UjO-1" value="Threadrunning升高--&amp;gt;DB hang" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-16.5" y="12" width="266.5" height="69" as="geometry" />
         </mxCell>
         <mxCell id="jBehs4SUArOwTs1o_UjO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jBehs4SUArOwTs1o_UjO-2" target="jBehs4SUArOwTs1o_UjO-3">
           <mxGeometry relative="1" as="geometry" />
