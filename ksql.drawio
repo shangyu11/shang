@@ -6349,6 +6349,9 @@
         <mxCell id="rdlirtpDFn5b6Td_jQ6j-2" value="执行计划" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="18" y="270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jBehs4SUArOwTs1o_UjO-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rdlirtpDFn5b6Td_jQ6j-3" target="rdlirtpDFn5b6Td_jQ6j-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rdlirtpDFn5b6Td_jQ6j-3" value="行锁、MDL锁" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="204" y="268" width="120" height="60" as="geometry" />
         </mxCell>
@@ -6367,7 +6370,7 @@
         <mxCell id="rdlirtpDFn5b6Td_jQ6j-10" value="优化器 bug" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-122" y="405" width="120" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="rdlirtpDFn5b6Td_jQ6j-11" value="索引使用方式" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="rdlirtpDFn5b6Td_jQ6j-11" value="索引使用" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="405" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="rdlirtpDFn5b6Td_jQ6j-12" value="统计信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -6413,6 +6416,12 @@
         </mxCell>
         <mxCell id="jBehs4SUArOwTs1o_UjO-11" value="业务回滚服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1354" y="281" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jBehs4SUArOwTs1o_UjO-13" value="DDL变更" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="261" y="511" width="84" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jBehs4SUArOwTs1o_UjO-14" value="空间回收" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="152" y="511" width="84" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
