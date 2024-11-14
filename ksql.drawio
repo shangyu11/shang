@@ -6352,7 +6352,7 @@
         <mxCell id="jBehs4SUArOwTs1o_UjO-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rdlirtpDFn5b6Td_jQ6j-3" target="rdlirtpDFn5b6Td_jQ6j-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rdlirtpDFn5b6Td_jQ6j-3" value="行锁、MDL锁" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="rdlirtpDFn5b6Td_jQ6j-3" value="行锁、MDL锁、latch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="400" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jBehs4SUArOwTs1o_UjO-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rdlirtpDFn5b6Td_jQ6j-5" target="jBehs4SUArOwTs1o_UjO-1">
