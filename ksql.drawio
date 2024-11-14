@@ -6402,29 +6402,32 @@
         <mxCell id="jBehs4SUArOwTs1o_UjO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jBehs4SUArOwTs1o_UjO-2" target="jBehs4SUArOwTs1o_UjO-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jBehs4SUArOwTs1o_UjO-67" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="jBehs4SUArOwTs1o_UjO-2" target="jBehs4SUArOwTs1o_UjO-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jBehs4SUArOwTs1o_UjO-2" value="问题SQL定位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="933" y="161" width="120" height="60" as="geometry" />
+          <mxGeometry x="1167" y="177" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jBehs4SUArOwTs1o_UjO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jBehs4SUArOwTs1o_UjO-3" target="jBehs4SUArOwTs1o_UjO-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jBehs4SUArOwTs1o_UjO-3" value="KILL问题SQL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1149" y="161" width="120" height="60" as="geometry" />
+          <mxGeometry x="1383" y="177" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jBehs4SUArOwTs1o_UjO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jBehs4SUArOwTs1o_UjO-4" target="jBehs4SUArOwTs1o_UjO-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jBehs4SUArOwTs1o_UjO-4" value="问题SQL并发限流" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="933" y="289" width="120" height="60" as="geometry" />
+          <mxGeometry x="1167" y="305" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jBehs4SUArOwTs1o_UjO-7" value="实例恢复" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1149" y="289" width="120" height="60" as="geometry" />
+          <mxGeometry x="1383" y="305" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jBehs4SUArOwTs1o_UjO-10" value="业务回滚服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1354" y="161" width="120" height="60" as="geometry" />
+          <mxGeometry x="1588" y="177" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jBehs4SUArOwTs1o_UjO-11" value="业务回滚服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1354" y="281" width="120" height="60" as="geometry" />
+          <mxGeometry x="1588" y="297" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jBehs4SUArOwTs1o_UjO-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="jBehs4SUArOwTs1o_UjO-13">
           <mxGeometry relative="1" as="geometry">
@@ -6553,6 +6556,21 @@
         </mxCell>
         <mxCell id="jBehs4SUArOwTs1o_UjO-58" value="缓存穿透" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-447" y="523" width="119" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="jBehs4SUArOwTs1o_UjO-66" value="回滚相关服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="968" y="305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jBehs4SUArOwTs1o_UjO-68" value="动态调整" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1158" y="273" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jBehs4SUArOwTs1o_UjO-69" value="快速" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1331" y="211" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jBehs4SUArOwTs1o_UjO-70" value="耗时、风险不确定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="986" y="258" width="114" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jBehs4SUArOwTs1o_UjO-71" value="少部分服务受影响" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1227" y="273" width="114" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
