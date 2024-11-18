@@ -6603,8 +6603,8 @@
         <mxCell id="gOmv6mbPqJQmdfJ77pxM-7" value="机器指标采集" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-627" y="608" width="163" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gOmv6mbPqJQmdfJ77pxM-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;专家系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-872" y="730.5" width="114" height="41" as="geometry" />
+        <mxCell id="gOmv6mbPqJQmdfJ77pxM-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;专家诊断系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-897" y="766.5" width="162" height="41" as="geometry" />
         </mxCell>
         <mxCell id="gOmv6mbPqJQmdfJ77pxM-9" value="KSQL内核指标采集" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-627" y="757" width="163" height="60" as="geometry" />
