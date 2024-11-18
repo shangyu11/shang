@@ -6597,8 +6597,8 @@
         <mxCell id="gOmv6mbPqJQmdfJ77pxM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gOmv6mbPqJQmdfJ77pxM-4" target="gOmv6mbPqJQmdfJ77pxM-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gOmv6mbPqJQmdfJ77pxM-4" value="执行计划类已知问题识别" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="83" y="657" width="163" height="60" as="geometry" />
+        <mxCell id="gOmv6mbPqJQmdfJ77pxM-4" value="执行计划变动识别" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-328" y="826" width="163" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gOmv6mbPqJQmdfJ77pxM-7" value="机器指标采集" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-627" y="608" width="163" height="60" as="geometry" />
@@ -6613,7 +6613,7 @@
           <mxGeometry x="-627" y="906" width="163" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gOmv6mbPqJQmdfJ77pxM-11" value="动态执行计划绑定" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="318" y="657" width="163" height="60" as="geometry" />
+          <mxGeometry x="-93" y="826" width="163" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3uvKhkzI813q-W6eyKdw-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3uvKhkzI813q-W6eyKdw-1" target="3uvKhkzI813q-W6eyKdw-6">
           <mxGeometry relative="1" as="geometry">
@@ -6628,6 +6628,21 @@
         </mxCell>
         <mxCell id="3uvKhkzI813q-W6eyKdw-6" value="服务恢复" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1383" y="457" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3uvKhkzI813q-W6eyKdw-8" value="实例切换" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-93" y="670" width="163" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3uvKhkzI813q-W6eyKdw-9" value="SQL并发限流" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-91.5" y="748" width="163" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3uvKhkzI813q-W6eyKdw-10" value="异常事务回滚" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-93" y="588" width="163" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3uvKhkzI813q-W6eyKdw-11" value="热点能力自动开启" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-91.5" y="904" width="163" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3uvKhkzI813q-W6eyKdw-12" value="DB实例恢复" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="202" y="721.75" width="150" height="112.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
