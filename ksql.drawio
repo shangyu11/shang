@@ -6573,14 +6573,14 @@
         <mxCell id="gOmv6mbPqJQmdfJ77pxM-3" value="压缩表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="574" y="307.5" width="119" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="gOmv6mbPqJQmdfJ77pxM-4" value="执行计划变动识别" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-378" y="980" width="163" height="60" as="geometry" />
+        <mxCell id="gOmv6mbPqJQmdfJ77pxM-4" value="执行计划类问题" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-375.5" y="959" width="163" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gOmv6mbPqJQmdfJ77pxM-7" value="机器指标采集" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-627" y="608" width="163" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gOmv6mbPqJQmdfJ77pxM-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;专家诊断系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-897" y="766.5" width="162" height="41" as="geometry" />
+          <mxGeometry x="-891" y="741" width="162" height="41" as="geometry" />
         </mxCell>
         <mxCell id="gOmv6mbPqJQmdfJ77pxM-9" value="KSQL内核指标采集" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-627" y="757" width="163" height="60" as="geometry" />
@@ -6666,13 +6666,46 @@
           <mxGeometry x="400" y="359" width="98.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="3uvKhkzI813q-W6eyKdw-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;指标采集&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-596" y="452" width="90" height="34" as="geometry" />
+          <mxGeometry x="-594" y="539" width="90" height="34" as="geometry" />
         </mxCell>
         <mxCell id="3uvKhkzI813q-W6eyKdw-30" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;问题分类&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-352" y="452" width="90" height="34" as="geometry" />
+          <mxGeometry x="-339" y="505" width="90" height="34" as="geometry" />
         </mxCell>
         <mxCell id="3uvKhkzI813q-W6eyKdw-31" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;止损操作&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-56.5" y="452" width="90" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="3uvKhkzI813q-W6eyKdw-32" value="资源消耗型/流量型SQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-375.5" y="831" width="163" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3uvKhkzI813q-W6eyKdw-33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-419" y="457" as="sourcePoint" />
+            <mxPoint x="-419" y="1045" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3uvKhkzI813q-W6eyKdw-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-151" y="461" as="sourcePoint" />
+            <mxPoint x="-151" y="1049" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3uvKhkzI813q-W6eyKdw-35" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-687" y="457" as="sourcePoint" />
+            <mxPoint x="-687" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3uvKhkzI813q-W6eyKdw-36" value="热点问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-375.5" y="707" width="163" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3uvKhkzI813q-W6eyKdw-37" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="128" y="454" as="sourcePoint" />
+            <mxPoint x="128" y="1042" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3uvKhkzI813q-W6eyKdw-38" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;结果检查&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="212" y="461" width="90" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
