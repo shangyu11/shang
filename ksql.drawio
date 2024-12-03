@@ -6324,10 +6324,10 @@
           <mxGeometry x="265" y="585" width="119" height="41" as="geometry" />
         </mxCell>
         <mxCell id="Np9TlMKl-IjZFgQ3aa7F-44" value="bufferpool" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1100" y="275" width="113" height="106" as="geometry" />
+          <mxGeometry x="-1107" y="297" width="113" height="106" as="geometry" />
         </mxCell>
         <mxCell id="Np9TlMKl-IjZFgQ3aa7F-45" value="tablespace manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1100" y="396" width="330" height="38" as="geometry" />
+          <mxGeometry x="-1107" y="418" width="330" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
