@@ -6329,6 +6329,47 @@
         <mxCell id="Np9TlMKl-IjZFgQ3aa7F-45" value="tablespace manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1107" y="418" width="330" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1027" y="237" width="123" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_r4vwC3MNutlakREtwIN-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1151" y="309" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_r4vwC3MNutlakREtwIN-4" target="_r4vwC3MNutlakREtwIN-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1234" y="237" width="123" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1441" y="237" width="123" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-6" value="DB Client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="326" width="117" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-7" value="DB Client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1237" y="326" width="117" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-8" value="DB Client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1444" y="326" width="117" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-9" value="KSQL RO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1051" y="254" width="71" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-10" value="KSQL RW" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1259" y="254" width="73" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-11" value="KSQL RO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1467" y="254" width="71" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-12" value="Space&lt;div&gt;Manager&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="831" y="491" width="112" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="814" y="425" width="146" height="152" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
