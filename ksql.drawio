@@ -6346,6 +6346,16 @@
         <mxCell id="_r4vwC3MNutlakREtwIN-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1479" y="249" width="123" height="144" as="geometry" />
         </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;curved=1;exitX=0.312;exitY=0.941;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_r4vwC3MNutlakREtwIN-7" target="_r4vwC3MNutlakREtwIN-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1290" y="370" />
+              <mxPoint x="1290" y="419" />
+              <mxPoint x="1071" y="419" />
+              <mxPoint x="1071" y="463" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_r4vwC3MNutlakREtwIN-6" value="DB Client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1068" y="338" width="117" height="34" as="geometry" />
         </mxCell>
@@ -6367,8 +6377,22 @@
         <mxCell id="_r4vwC3MNutlakREtwIN-12" value="Space&lt;div&gt;Manager&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="831" y="491" width="112" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="_r4vwC3MNutlakREtwIN-15" target="_r4vwC3MNutlakREtwIN-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="_r4vwC3MNutlakREtwIN-15" target="_r4vwC3MNutlakREtwIN-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="_r4vwC3MNutlakREtwIN-15" target="_r4vwC3MNutlakREtwIN-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_r4vwC3MNutlakREtwIN-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="814" y="425" width="146" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_r4vwC3MNutlakREtwIN-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="945.5" y="679" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_r4vwC3MNutlakREtwIN-16" value="KSQL&lt;span style=&quot;background-color: initial;&quot;&gt;Store&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;shard1&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1055" y="624" width="109" height="109" as="geometry" />
@@ -6383,16 +6407,28 @@
           <mxGeometry x="1034" y="784" width="165" height="71" as="geometry" />
         </mxCell>
         <mxCell id="_r4vwC3MNutlakREtwIN-20" value="kwaistore块存储" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="1261" y="784" width="165" height="71" as="geometry" />
+          <mxGeometry x="1251" y="784" width="165" height="71" as="geometry" />
         </mxCell>
         <mxCell id="_r4vwC3MNutlakREtwIN-21" value="kwaistore块存储" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="1488" y="784" width="165" height="71" as="geometry" />
+          <mxGeometry x="1475" y="784" width="165" height="71" as="geometry" />
         </mxCell>
         <mxCell id="_r4vwC3MNutlakREtwIN-22" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;...&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1712" y="797" width="33" height="34" as="geometry" />
         </mxCell>
         <mxCell id="_r4vwC3MNutlakREtwIN-23" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;...&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1712" y="661.5" width="33" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.458;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_r4vwC3MNutlakREtwIN-16" target="_r4vwC3MNutlakREtwIN-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_r4vwC3MNutlakREtwIN-17" target="_r4vwC3MNutlakREtwIN-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_r4vwC3MNutlakREtwIN-18" target="_r4vwC3MNutlakREtwIN-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-33" value="接收redo、&lt;div&gt;apply redo到page&lt;/div&gt;&lt;div&gt;持久化redo、page&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="800" y="651" width="117" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
