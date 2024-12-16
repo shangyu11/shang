@@ -6430,6 +6430,18 @@
         <mxCell id="_r4vwC3MNutlakREtwIN-33" value="接收redo、&lt;div&gt;apply redo到page&lt;/div&gt;&lt;div&gt;持久化redo、page&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="800" y="651" width="117" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-36" value="Redo Log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1318" y="541" width="70" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-38" value="Redo Log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1537" y="545.5" width="70" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-39" value="Redo Log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="539" width="70" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-40" value="Redo Log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1118" y="420" width="70" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
