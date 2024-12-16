@@ -6377,15 +6377,6 @@
         <mxCell id="_r4vwC3MNutlakREtwIN-12" value="Space&lt;div&gt;Manager&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="831" y="491" width="112" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="_r4vwC3MNutlakREtwIN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="_r4vwC3MNutlakREtwIN-15" target="_r4vwC3MNutlakREtwIN-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_r4vwC3MNutlakREtwIN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="_r4vwC3MNutlakREtwIN-15" target="_r4vwC3MNutlakREtwIN-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_r4vwC3MNutlakREtwIN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="_r4vwC3MNutlakREtwIN-15" target="_r4vwC3MNutlakREtwIN-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_r4vwC3MNutlakREtwIN-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="814" y="425" width="146" height="152" as="geometry" />
         </mxCell>
@@ -6430,17 +6421,44 @@
         <mxCell id="_r4vwC3MNutlakREtwIN-33" value="接收redo、&lt;div&gt;apply redo到page&lt;/div&gt;&lt;div&gt;持久化redo、page&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="800" y="651" width="117" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="_r4vwC3MNutlakREtwIN-36" value="Redo Log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1318" y="541" width="70" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="_r4vwC3MNutlakREtwIN-38" value="Redo Log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1537" y="545.5" width="70" height="26" as="geometry" />
+          <mxGeometry x="1361" y="476.5" width="70" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_r4vwC3MNutlakREtwIN-39" value="Redo Log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="539" width="70" height="26" as="geometry" />
+        <mxCell id="_r4vwC3MNutlakREtwIN-39" value="Page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1146" y="519.5" width="46" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_r4vwC3MNutlakREtwIN-40" value="Redo Log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1118" y="420" width="70" height="26" as="geometry" />
+        <mxCell id="_r4vwC3MNutlakREtwIN-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1004" y="591" width="764" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1350" y="413" as="sourcePoint" />
+            <mxPoint x="1350" y="575" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-45" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1250" y="580" as="sourcePoint" />
+            <mxPoint x="1148" y="441" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-46" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1429" y="580.5" as="sourcePoint" />
+            <mxPoint x="1523" y="433" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-47" value="Page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1498" y="504" width="46" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-48" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1310" y="574" as="sourcePoint" />
+            <mxPoint x="1310" y="412" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_r4vwC3MNutlakREtwIN-49" value="Page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1254" y="476.5" width="46" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
