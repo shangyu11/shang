@@ -6373,11 +6373,6 @@
         <mxCell id="_r4vwC3MNutlakREtwIN-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="827" y="279" width="146" height="152" as="geometry" />
         </mxCell>
-        <mxCell id="_r4vwC3MNutlakREtwIN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_r4vwC3MNutlakREtwIN-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="945.5" y="679" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_r4vwC3MNutlakREtwIN-16" value="KSQL&lt;span style=&quot;background-color: initial;&quot;&gt;Store&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;shard1&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1055" y="624" width="109" height="109" as="geometry" />
         </mxCell>
@@ -6411,14 +6406,14 @@
         <mxCell id="_r4vwC3MNutlakREtwIN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_r4vwC3MNutlakREtwIN-18" target="_r4vwC3MNutlakREtwIN-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_r4vwC3MNutlakREtwIN-33" value="接收redo、&lt;div&gt;apply redo到page&lt;/div&gt;&lt;div&gt;持久化redo、page&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="800" y="651" width="117" height="55" as="geometry" />
+        <mxCell id="_r4vwC3MNutlakREtwIN-33" value="接收redo、&lt;div&gt;apply redo到page&lt;/div&gt;&lt;div&gt;持久化redo、page到kwaistore&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="769" y="651" width="179" height="55" as="geometry" />
         </mxCell>
         <mxCell id="_r4vwC3MNutlakREtwIN-38" value="Redo Log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1361" y="476.5" width="70" height="26" as="geometry" />
+          <mxGeometry x="1353" y="478" width="70" height="26" as="geometry" />
         </mxCell>
         <mxCell id="_r4vwC3MNutlakREtwIN-39" value="Page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1146" y="519.5" width="46" height="26" as="geometry" />
+          <mxGeometry x="1151" y="511" width="46" height="26" as="geometry" />
         </mxCell>
         <mxCell id="_r4vwC3MNutlakREtwIN-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="976" y="600" width="764" height="285" as="geometry" />
@@ -6432,17 +6427,17 @@
         <mxCell id="_r4vwC3MNutlakREtwIN-45" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1250" y="580" as="sourcePoint" />
-            <mxPoint x="1148" y="441" as="targetPoint" />
+            <mxPoint x="1133" y="404" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_r4vwC3MNutlakREtwIN-46" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1429" y="580.5" as="sourcePoint" />
-            <mxPoint x="1523" y="433" as="targetPoint" />
+            <mxPoint x="1422" y="578" as="sourcePoint" />
+            <mxPoint x="1549" y="401" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_r4vwC3MNutlakREtwIN-47" value="Page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1498" y="504" width="46" height="26" as="geometry" />
+          <mxGeometry x="1479" y="504" width="46" height="26" as="geometry" />
         </mxCell>
         <mxCell id="_r4vwC3MNutlakREtwIN-48" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
