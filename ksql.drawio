@@ -6371,7 +6371,7 @@
           <mxGeometry x="842" y="357" width="112" height="39" as="geometry" />
         </mxCell>
         <mxCell id="_r4vwC3MNutlakREtwIN-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="827" y="279" width="146" height="152" as="geometry" />
+          <mxGeometry x="827" y="297" width="146" height="152" as="geometry" />
         </mxCell>
         <mxCell id="_r4vwC3MNutlakREtwIN-16" value="KSQL&lt;span style=&quot;background-color: initial;&quot;&gt;Store&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;shard1&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1055" y="624" width="109" height="109" as="geometry" />
